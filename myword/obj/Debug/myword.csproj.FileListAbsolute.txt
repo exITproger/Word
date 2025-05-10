@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\myword\myword\obj\Debug\myword.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\myword\myword\obj\Debug\myword.Properties.Resources.resources
+C:\Users\user\source\repos\myword\myword\obj\Debug\myword.csproj.GenerateResource.cache
+C:\Users\user\source\repos\myword\myword\obj\Debug\myword.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\myword\myword\bin\Debug\myword.exe.config
+C:\Users\user\source\repos\myword\myword\bin\Debug\myword.exe
+C:\Users\user\source\repos\myword\myword\bin\Debug\myword.pdb
+C:\Users\user\source\repos\myword\myword\obj\Debug\myword.exe
+C:\Users\user\source\repos\myword\myword\obj\Debug\myword.pdb
+C:\Users\user\source\repos\myword\myword\obj\Debug\TextEditor.MainForm.resources
